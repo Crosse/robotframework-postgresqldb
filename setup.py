@@ -36,10 +36,4 @@ setup(
     install_requires=[
         "robotframework",
         "psycopg2"
-    ],
-    extras_require={
-        ':python_version<="2.7"': [
-            'future>=0.16.0'
-        ],
-    }
-)
+    ])

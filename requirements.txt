@@ -1,3 +1,2 @@
-future>=0.16.0
 psycopg2
 robotframework
